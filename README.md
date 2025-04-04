@@ -9,4 +9,4 @@ Instructions to run the project
 3. Start the dev server
    npm run dev (command)
 
-4. The app will run at http://localost:5173/
+4. The app will run at http://localhost:5173/
